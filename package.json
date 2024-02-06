@@ -1,0 +1,9 @@
+{
+  "name": "RD",
+  "version": "1.0.0",
+  "main": "cs_balancing.js",
+  "license": "MIT",
+  "scripts": {
+    "test": "jest"
+  }
+}
